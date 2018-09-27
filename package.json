@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "joystick": "^0.1.2",
+    "raspi": "^5.0.2",
+    "raspi-soft-pwm": "^5.0.0"
+  }
+}
